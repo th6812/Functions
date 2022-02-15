@@ -21,7 +21,10 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+<<<<<<< HEAD
 
 
 *.class
 .idea/discord.xml
+=======
+>>>>>>> 0fc29279da29761c38b619538acc76877e22d996
